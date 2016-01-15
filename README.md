@@ -22,7 +22,8 @@ Needs a recent-ish version of Powershell (4.0 works for me):
 Take a look at the script - there are a set of global variables that will
 probably need tweaking to your environment.
 
-Run it with Powershell.
+Run it with Powershell, under a user account that has necessary privileges
+for account administration actions.
 
 
 # Author
